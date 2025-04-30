@@ -17,7 +17,7 @@ nav{
     height: 4rem;
     background-color: #FFFFFF;
    justify-content: space-between;
-align-items: stretch;
+align-items: center;
    display: flex;
    padding: 1rem;
    box-shadow: 0 0 8px 0.3px rgb(41, 41, 41);
